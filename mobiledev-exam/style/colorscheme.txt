@@ -1,0 +1,27 @@
+    Primary Color:
+        Main Color: #FF6347 (Coral)
+        Accent Color: #F5DEB3 (Wheat)
+
+    Secondary Colors:
+        Darker Shade: #8B4513 (Saddle Brown)
+        Lighter Shade: #FFE4C4 (Bisque)
+
+    Background Colors:
+        Background: #FFFFFF (White)
+        Background (Alternate): #F8F8F8 (Light Gray)
+
+    Text Colors:
+        Heading Text: #333333 (Dark Gray)
+        Body Text: #666666 (Gray)
+        Accent Text: #FF6347 (Coral)
+        Disabled Text: #C0C0C0 (Silver)
+
+    Button Colors:
+        Primary Button: #FF6347 (Coral)
+        Secondary Button: #FFFFFF (White)
+        Disabled Button: #C0C0C0 (Silver)
+
+    Navigation Colors:
+        Active Tab: #FF6347 (Coral)
+        Inactive Tab: #999999 (Light Gray)
+        Tab Background: #FFFFFF (White)

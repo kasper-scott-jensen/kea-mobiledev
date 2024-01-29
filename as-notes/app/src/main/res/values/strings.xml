@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">as-notes</string>
+    <string name="firebase_to_do">FIREBASE TO DO</string>
+    <string name="image">image</string>
+    <string name="button">button</string>
+    <string name="standard_text">The quick brown fox ran over …</string>
+    <string name="standard_date">31–12–1994</string>
+    <string name="task">TASK</string>
+    <string name="cancel">cancel</string>
+    <string name="accept">accept</string>
+</resources>
